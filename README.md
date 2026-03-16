@@ -41,8 +41,10 @@ Project	Description	Stack
 📊 Student Behavior Clustering	K-Means segmentation → 28% lift in email engagement	SQL, Python, K-Means, Tableau
 ---
 📈 GitHub Stats
-![Namitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true)
+![Namitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=namitha-padigapati
+&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namitha-padigapati
+&layout=compact&theme=tokyonight&hide_border=true)
 ---
 🏅 Certifications
 🟦 Google Data Analytics Professional — Coursera
